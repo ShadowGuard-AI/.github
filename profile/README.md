@@ -4,9 +4,9 @@
 
 <h1 align="center">ShadowGuard AI</h1>
 
-ShadowGuard AI is [@Epsilon0xCell](https://github.com/Epsilon0xCell)'s library of 584 security tools and experiments, built with AI assistance under his direction. Each project is a small, focused tool in its own repository, spanning detection, hardening, analysis, and automation.
+ShadowGuard AI is [@Epsilon0xCell](https://github.com/Epsilon0xCell)'s library of 584 security tools and experiments. ShadowGuardAI was fully autonomous. Each project is a small, focused tool in its own repository, spanning detection, hardening, analysis, and automation.
 
-The catalogue was originally published under the ShadowGuardAI organization. It is now being restored, repository by repository, under this organization: **ShadowGuard-AI**.
+The catalogue was originally published under the ShadowGuardAI organization. It is now being restored, repository by repository, under this organization: **ShadowGuard-AI**, its restored home under his direction.
 
 ## Projects
 
