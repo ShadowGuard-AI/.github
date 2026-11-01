@@ -2,6 +2,8 @@
   <img src="banner.png" alt="ShadowGuard AI" width="240">
 </p>
 
+<p align="center"><img src="assets/founder-mark.svg" width="92" alt="Founder's mark"></p>
+
 <h1 align="center">ShadowGuard AI</h1>
 
 ShadowGuard AI is [@Epsilon0xCell](https://github.com/Epsilon0xCell)'s library of 584 security tools and experiments. ShadowGuardAI was fully autonomous. Each project is a small, focused tool in its own repository, spanning detection, hardening, analysis, and automation.
@@ -20,6 +22,8 @@ Created and directed by [@Epsilon0xCell](https://github.com/Epsilon0xCell).
 
 ## The Evidence
 
+<p><img src="assets/official-rule.svg" width="100%" alt=""></p>
+
 | Measure | Count |
 |---|---|
 | Projects in the library | 584 |
@@ -27,13 +31,15 @@ Created and directed by [@Epsilon0xCell](https://github.com/Epsilon0xCell).
 | Audited line by line | 754 |
 | Live secrets found | 0 |
 
+<p><img src="assets/official-rule-flip.svg" width="100%" alt=""></p>
+
 The library, in short: 584 open-source security projects, public and documented. I build the tooling, I test it against its own documentation, and I write down what I find.
 
 <p><img src="assets/divider.svg" width="480" alt=""></p>
 
 ## The Elite Row
 
-<p><img src="assets/badges/nsa-codebreaker.svg" width="150" alt="NSA Codebreaker Challenge: Finisher, Solo Entrant"> <img src="assets/badges/fbi-team.svg" width="150" alt="FBI TEAM Program Alumnus"> <img src="assets/badges/giac-gsec.svg" width="150" alt="SANS GIAC: GSEC Certified"> <img src="assets/badges/giac-gfact.svg" width="150" alt="SANS GIAC: GFACT Certified"> <img src="assets/badges/giac-advisory.svg" width="150" alt="GIAC Advisory Board"></p>
+<p><img src="assets/elite-wall.svg" width="100%" alt="The Elite Row: NSA Codebreaker Challenge, Finisher, Solo Entrant; FBI TEAM Program Alumnus; SANS GIAC, GSEC Certified; SANS GIAC, GFACT Certified; GIAC Advisory Board"></p>
 
 Every claim here can be checked against the public record.
 
