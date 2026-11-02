@@ -18,7 +18,7 @@ Every project lives in its own repository, and the catalogue is restored in full
 
 ## Founder
 
-Created and directed by Gavin Blacklock ([@Epsilon0xCell](https://github.com/Epsilon0xCell)).
+Created and directed by Gavin Blacklock (Gavin K.) ([@Epsilon0xCell](https://github.com/Epsilon0xCell)).
 
 ## The Evidence
 
